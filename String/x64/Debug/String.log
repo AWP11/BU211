@@ -1,0 +1,24 @@
+﻿  main.cpp
+C:\Users\VIKTOR\Desktop\PU_211-master\IntroductionToOOP\String\main.cpp(9,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\VIKTOR\Desktop\PU_211-master\IntroductionToOOP\String\main.cpp(32,2): error C2065: 'String': undeclared identifier
+C:\Users\VIKTOR\Desktop\PU_211-master\IntroductionToOOP\String\main.cpp(32,9): error C2146: syntax error: missing ';' before identifier 'str1'
+C:\Users\VIKTOR\Desktop\PU_211-master\IntroductionToOOP\String\main.cpp(32,9): error C2065: 'str1': undeclared identifier
+C:\Users\VIKTOR\Desktop\PU_211-master\IntroductionToOOP\String\main.cpp(33,2): error C2065: 'String': undeclared identifier
+C:\Users\VIKTOR\Desktop\PU_211-master\IntroductionToOOP\String\main.cpp(33,9): error C2146: syntax error: missing ';' before identifier 'str2'
+C:\Users\VIKTOR\Desktop\PU_211-master\IntroductionToOOP\String\main.cpp(33,9): error C2065: 'str2': undeclared identifier
+C:\Users\VIKTOR\Desktop\PU_211-master\IntroductionToOOP\String\main.cpp(38,2): error C2065: 'str1': undeclared identifier
+C:\Users\VIKTOR\Desktop\PU_211-master\IntroductionToOOP\String\main.cpp(38,10): error C2065: 'str2': undeclared identifier
+C:\Users\VIKTOR\Desktop\PU_211-master\IntroductionToOOP\String\main.cpp(39,2): error C2065: 'cout': undeclared identifier
+C:\Users\VIKTOR\Desktop\PU_211-master\IntroductionToOOP\String\main.cpp(39,10): error C2065: 'delimiter': undeclared identifier
+C:\Users\VIKTOR\Desktop\PU_211-master\IntroductionToOOP\String\main.cpp(39,23): error C2065: 'endl': undeclared identifier
+C:\Users\VIKTOR\Desktop\PU_211-master\IntroductionToOOP\String\main.cpp(40,2): error C2065: 'cout': undeclared identifier
+C:\Users\VIKTOR\Desktop\PU_211-master\IntroductionToOOP\String\main.cpp(40,10): error C2065: 'str1': undeclared identifier
+C:\Users\VIKTOR\Desktop\PU_211-master\IntroductionToOOP\String\main.cpp(40,18): error C2065: 'endl': undeclared identifier
+C:\Users\VIKTOR\Desktop\PU_211-master\IntroductionToOOP\String\main.cpp(41,2): error C2065: 'cout': undeclared identifier
+C:\Users\VIKTOR\Desktop\PU_211-master\IntroductionToOOP\String\main.cpp(41,10): error C2065: 'delimiter': undeclared identifier
+C:\Users\VIKTOR\Desktop\PU_211-master\IntroductionToOOP\String\main.cpp(41,23): error C2065: 'endl': undeclared identifier
+C:\Users\VIKTOR\Desktop\PU_211-master\IntroductionToOOP\String\main.cpp(43,2): error C2065: 'String': undeclared identifier
+C:\Users\VIKTOR\Desktop\PU_211-master\IntroductionToOOP\String\main.cpp(43,9): error C2146: syntax error: missing ';' before identifier 'str3'
+C:\Users\VIKTOR\Desktop\PU_211-master\IntroductionToOOP\String\main.cpp(43,9): error C2065: 'str3': undeclared identifier
+C:\Users\VIKTOR\Desktop\PU_211-master\IntroductionToOOP\String\main.cpp(43,16): error C2065: 'str1': undeclared identifier
+C:\Users\VIKTOR\Desktop\PU_211-master\IntroductionToOOP\String\main.cpp(44,2): error C2065: 'str3': undeclared identifier
